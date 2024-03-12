@@ -11,22 +11,22 @@
             "version": "0.1.15"
         },
         {
-            "name": "æ­Œè¯ç½‘",
+            "name": "¸è´ÊÍø",
             "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/geciwang/index.js",
             "version": "0.0.0"
         },
         {
-            "name": "æ­Œè¯åƒå¯»",
+            "name": "¸è´ÊÇ§Ñ°",
             "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/geciqianxun/index.js",
             "version": "0.0.0"
         },
         {
-            "name": "å¿«æ‰‹",
+            "name": "¿ìÊÖ",
             "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/kuaishou/index.js",
             "version": "0.0.1"
         },
         {
-            "name": "çŒ«è€³FM",
+            "name": "Ã¨¶úFM",
             "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/maoerfm/index.js",
             "version": "0.1.4"
         },
@@ -36,7 +36,7 @@
             "version": "0.0.0"
         },
         {
-            "name": "éŸ³æ‚¦å°",
+            "name": "ÒôÔÃÌ¨",
             "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/yinyuetai/index.js",
             "version": "0.0.1"
         },
@@ -49,29 +49,29 @@
             "name": "Youtube",
             "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/youtube/index.js",
             "version": "0.0.1"
-        }
+        },
 		{
-            "name": "å’ªå’•",
+            "name": "ßä¹¾",
             "url": "https://adad23u.appinstall.life/dist/migu/index.js",
             "version": "0.0.1"
-        }
-	{
-            "name": "é…·æˆ‘",
+        },
+		{
+            "name": "¿áÎÒ",
             "url": "https://adad23u.appinstall.life/dist/kuwo/index.js",
             "version": "0.0.1"
-        }
-	{
+        },
+		{
             "name": "QQ",
             "url": "https://adad23u.appinstall.life/dist/qq/index.js",
             "version": "0.0.1"
-        }
-	{
-            "name": "Bç«™",
+        },
+		{
+            "name": "BÕ¾",
             "url": "https://adad23u.appinstall.life/dist/bilibili/index.js",
             "version": "0.0.1"
-        }
-	{
-            "name": "ç½‘æ˜“",
+        },
+		{
+            "name": "ÍøÒ×",
             "url": "https://csm.sayqz.com/js/app/app.js",
             "version": "0.0.1"
         }
